@@ -32,6 +32,9 @@ params:
   socialIcons:
     - name: GitHub
       url: "https://github.com/razac-elda"
+    - name: email
+      url: "mailto:leonardo@leomazzon.eu"
+      
 
   author: Leonardo Mazzon
   DateFormat: "2 January 2006"

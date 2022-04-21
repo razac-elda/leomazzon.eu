@@ -1,0 +1,61 @@
+baseURL: https://razac-elda.github.io
+languageCode: en-us
+theme: "PaperMod"
+paginate: 2
+
+title: leomazzon@eu:~$
+descritpion: Leonardo Mazzon personal website, I like ducks.
+copyright: © 2022 Leonardo Mazzon, read the [license](https://github.com/razac-elda/razac-elda.github.io/blob/main/LICENSE).
+enableEmoji: true
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+menu:
+  main:
+    - identifier: archive
+      name: cd archive/
+      url: /archive/
+      weight: 10
+
+params:
+  env: production
+  defaultTheme: dark
+  disableThemeToggle: false
+
+  homeInfoParams:
+    Title: Leonardo Mazzon
+    Content: >
+      Ciao! I'm a 25yo italian with a passion for technology.
+
+  socialIcons:
+    - name: GitHub
+      url: "https://github.com/razac-elda"
+
+  author: Leonardo Mazzon
+  DateFormat: "2 January 2006"
+  ShowReadingTime: true
+  ShowToc: true
+  ShowCodeCopyButtons: true
+
+privacy:
+  disqus:
+    disable: true
+  googleAnalytics:
+    disable: true
+  instagram:
+    disable: true
+  twitter:
+    disabled: false
+    enableDNT: true
+    simple: true
+  vimeo:
+    disable: true
+  youtube:
+    disable: false
+    privacyEnhanced: true
+
+services:
+  twitter:
+    disableInlineCSS: true

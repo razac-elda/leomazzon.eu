@@ -1,11 +1,11 @@
-baseURL: https://razac-elda.github.io
+baseURL: https://leomazzon.eu
 languageCode: en-us
 theme: "PaperMod"
 paginate: 2
 
 title: leomazzon@eu:~$
 descritpion: Leonardo Mazzon personal website, I like ducks.
-copyright: © 2022 Leonardo Mazzon, read the [license](https://github.com/razac-elda/razac-elda.github.io/blob/main/LICENSE).
+copyright: © 2022 Leonardo Mazzon, read the [license](https://github.com/razac-elda/leomazzon.eu/blob/main/LICENSE).
 enableEmoji: true
 
 minify:

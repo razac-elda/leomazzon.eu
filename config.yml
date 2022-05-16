@@ -1,9 +1,9 @@
 baseURL: https://leomazzon.eu
 languageCode: en-us
 theme: "PaperMod"
-paginate: 2
+paginate: 1
 
-title: leomazzon@eu:~$
+title: leomazzon.eu
 descritpion: Leonardo Mazzon personal website, I like ducks.
 copyright: © 2022 Leonardo Mazzon, read the [license](https://github.com/razac-elda/leomazzon.eu/blob/main/LICENSE).
 enableEmoji: true

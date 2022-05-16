@@ -6,7 +6,7 @@ date: 2022-05-15T20:25:15+02:00
 draft: false
 ---
 
-![logo](images/pihole_podman.png#center)
+![logo](/images/pihole_podman.png#center)
 
 One piece of software that I always use on my local server is [Pi-hole](https://pi-hole.net/ "Pi-hole website"), it's just too good to not have it running. I had to reinstall Pi-hole so I was thinking of trying [Podman](https://podman.io/ "Podman website") instead of [Docker](https://www.docker.com/ "Docker website") because it's daemonless, rootless and it's nice to have alternatives.
 

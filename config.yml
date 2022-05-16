@@ -34,6 +34,11 @@ params:
       url: "https://github.com/razac-elda"
     - name: email
       url: "mailto:leonardo@leomazzon.eu"
+  
+  editPost:
+    URL: "https://github.com/razac-elda/leomazzon.eu/issues"
+    Text: "Suggest changes"
+    appendFilePath: false
       
 
   author: Leonardo Mazzon

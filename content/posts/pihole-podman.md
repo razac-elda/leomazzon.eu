@@ -1,5 +1,7 @@
 ---
 title: "Pi-hole container with Podman"
+summary: "Podman mascot is a mole, so it make sense to use Pi-hole with it."
+description: "Podman mascot is a mole, so it make sense to use Pi-hole with it."
 date: 2022-05-15T20:25:15+02:00
 draft: false
 ---

@@ -30,11 +30,13 @@ params:
       Ciao! I'm a 25yo italian with a passion for technology.
 
   socialIcons:
-    - name: GitHub
-      url: "https://github.com/razac-elda"
-    - name: email
+    - name: "email"
       url: "mailto:leonardo@leomazzon.eu"
-  
+    - name: "github"
+      url: "https://github.com/razac-elda"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/leomazzon/"
+    
   editPost:
     URL: "https://github.com/razac-elda/leomazzon.eu/issues"
     Text: "Suggest changes"
